@@ -4,4 +4,4 @@
 
 This simple web application demo was developed as a teaching tool to help students get started on basic web application development. This demo is #5 in a series of tutorials.
 
-The full tutorial that accompanies this demo can be found on Google Slides (link forthcoming).
+The full tutorial that accompanies this demo can be found on [Google Slides](https://docs.google.com/presentation/d/1tbyGtisf5sDJJh2Jy-bi3ELh0VNlmvJLsTLXYjcbERM/edit?usp=sharing).
